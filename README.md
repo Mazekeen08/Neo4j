@@ -1,3 +1,4 @@
+## Neo4j
 The Neo4j Graph Platform includes components that enable you to develop your graph-enabled application. To better understand the Neo4j Graph Platform, you will learn about these components and the benefits they provide.
 
 Neo4j Database
